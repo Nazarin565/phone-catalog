@@ -136,7 +136,9 @@ export const ItemCardPage = () => {
               centeredSlides={true}
               autoplay={{ delay: 5000 }}
               thumbs={{ swiper: thumbsSwiper }}
-              onSlideChange={swiper => setActiveIndex(swiper.activeIndex)}
+              onSlideChange={(swiper: SwiperClass) =>
+                setActiveIndex(swiper.activeIndex)
+              }
               className={style.mainImg}
             >
               {images?.map((img, index) => (
@@ -147,7 +149,7 @@ export const ItemCardPage = () => {
             </Swiper>
 
             <Swiper
-              onSwiper={swiper => setThumbsSwiper(swiper)}
+              onSwiper={(swiper: SwiperClass) => setThumbsSwiper(swiper)}
               slidesPerView={images?.length}
               spaceBetween={thumbsDirection === 'horizontal' ? 20 : 0}
               className={style.thumbs}
