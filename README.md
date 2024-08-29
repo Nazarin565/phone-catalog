@@ -18,10 +18,7 @@ For launching this project you must have Node.js and npm on your computer. This 
 
 1. Clone repository with `git clone`
 2. Install dependencies with `npm install` or `npm i`
-3. Install react router with `npm i react-router-dom`
-4. Install Swiper.js with `npm i swiper`
-5. Install react icons with `npm i react-icons`
-5. Start project with `npm start`
+3. Start project with `npm start`
    
 Or you can just use the link below
 
