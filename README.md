@@ -26,5 +26,5 @@ For launching this project you must have Node.js and npm on your computer. This 
 Or you can just use the link below
 
 # Links
-[Demo link](https://nazarin565.github.io/phone-catalog-react-typescript/)
-[Figma design](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&node-type=CANVAS&t=mZQlCZJapK3qy7kS-0)
+- [Demo link](https://nazarin565.github.io/phone-catalog-react-typescript/)
+- [Figma design](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&node-type=CANVAS&t=mZQlCZJapK3qy7kS-0)
